@@ -1,0 +1,40 @@
+{
+    "name": "atomized-theme",
+    "displayName": "Atomized Theme",
+    "description": "A combination of both Atom's iconic theme and Material Theme.",
+    "version": "1.0.0",
+    "publisher": "excalith",
+    "homepage": "https://github.com/excalith/Atomized-Theme/",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/excalith/Atomized-Theme/"
+	},
+	"galleryBanner": {
+		"color": "#fff",
+		"theme": "dark"
+	},
+    "icon": "logo.png",
+    "keywords": [
+        "atom",
+        "material",
+        "dark",
+        "theme",
+        "atom"
+	],
+    "engines": {
+        "vscode": "^1.14.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Atomized Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Atomized-Theme.json"
+            }
+        ]
+    }
+
+}
