@@ -1,4 +1,8 @@
 # Atomized Theme
+[![](https://vsmarketplacebadge.apphb.com/installs-short/excalith.atomized-theme.svg)](https://marketplace.visualstudio.com/items?itemName=excalith.atomized-theme)
+[![](https://vsmarketplacebadge.apphb.com/rating-short/excalith.atomized-theme.svg)](https://marketplace.visualstudio.com/items?itemName=excalith.atomized-theme)
+[![](https://vsmarketplacebadge.apphb.com/version-short/excalith.atomized-theme.svg)](https://marketplace.visualstudio.com/items?itemName=excalith.atomized-theme)
+
 **Atomized Theme** is a combination of both **Atom**'s iconic theme and **Material Theme**'s syntax highlighting. A relief for sore eyes!
 
 ![Atomized Theme Screenshot](screenshot.png "Atomized Theme Screenshot")
