@@ -1,7 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
-## [1.1.1] - 2018-09-20
+## [1.1.2] - 2018-09-20
+- Improve Readme
+
+## [1.1.1] - 2018-09-19
 - Improve UI color variety
 
 ## [1.1.0] - 2018-06-13
