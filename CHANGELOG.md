@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [1.1.3] - 2018-09-20
+- Update Screenshot
+- Update VSCode Requirement To 1.25
+
 ## [1.1.2] - 2018-09-20
 - Improve Readme
 
