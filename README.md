@@ -56,3 +56,8 @@ You are more than welcome to contribute the [Atomized Theme Repo](https://github
     "bracketPairColorizer.showHorizontalScopeLine": false,
     "bracketPairColorizer.showVerticalScopeLine": false
 ```
+- [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces) - Shows all trailing spaces in a nice way. Also has an option to trim only modified lines, so you won't have any headache with merge conflicts.
+```JSON
+    "trailing-spaces.deleteModifiedLinesOnly": true,
+    "trailing-spaces.trimOnSave": true,
+```
