@@ -1,6 +1,11 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [1.1.4] - 2018-09-20
+- Improve Color Variations
+- Improve Recommended Extensions
+- Add Badges To Readme
+
 ## [1.1.3] - 2018-09-20
 - Update Screenshot
 - Update VSCode Requirement To 1.25
